@@ -72,7 +72,7 @@ The dashboard includes a mix of visual types:
 
 ## 📺 Project Credit
 
-This project was built by following the guided series by **Moris Moccia** on YouTube:
+This project was built by following the guided series by **Mo Chen** on YouTube:
 [Power BI Full Project Playlist](https://www.youtube.com/watch?v=BLxW9ZSuuVI&list=PLodYDTuHA29aWHT5lVILqoI_cZWBXloHr&index=1)
 
 All implementation, notes, and documentation are my own.
@@ -90,5 +90,5 @@ All implementation, notes, and documentation are my own.
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/iandias20/)) · [GitHub](https://github.com/yourusername)
+**[Ian Dias]**
+[LinkedIn]([https://www.linkedin.com/in/iandias20/]) · [GitHub]([https://github.com/Ian3000Dias])
