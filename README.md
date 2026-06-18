@@ -16,6 +16,12 @@ The project uses a star schema with one fact table and two dimension tables:
 
 ---
 
+## 📸 Dashboard Preview
+ 
+![Sales & Profitability Dashboard]("C:\Users\Ian Diaz\Pictures\Screenshots\Screenshot 2026-06-18 191928.png")
+ 
+---
+
 ## 🔧 Technical Walkthrough
 
 ### 1. Loading Data
