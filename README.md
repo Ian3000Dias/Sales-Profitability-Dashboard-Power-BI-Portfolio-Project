@@ -90,5 +90,5 @@ All implementation, notes, and documentation are my own.
 
 ## 👤 Author
 
-**[Ian Dias]**
-[LinkedIn]([https://www.linkedin.com/in/iandias20/]) · [GitHub]([https://github.com/Ian3000Dias])
+**Ian Dias**
+[LinkedIn](https://www.linkedin.com/in/iandias20/) · [GitHub](https://github.com/Ian3000Dias)
