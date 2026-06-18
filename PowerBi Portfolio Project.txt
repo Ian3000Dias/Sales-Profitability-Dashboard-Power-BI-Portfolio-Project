@@ -1,0 +1,25 @@
+PowerBi Portfolio Project
+
+Dataset Dictionary
+Fact Table -> Main Table consisting of Product ID, Account ID, sales, Prices and Costs
+Accounts table -> Dimension Table consisting more details about the account
+Plant Hierarchy -> Dimension Table consisting more info about the product
+
+Loading data
+Click on get data -> Excel workbook -> Browse workbook -> Select tables 
+-> Hit transform and load -> do necessary changes (check datatypes, clear duplicates where necessary, check table names) -> Click close and apply
+
+Creating Virtual Tables
+Go into the modelling tab -> Click New table -> type in the formula for ur new table.
+Click on enter data or get data -> select blank table
+
+Creating Measures
+right Click on the table in the data tab -> Select new measure -> name of measure = Formula. 
+
+Grouping Related Columns into a folder
+Go to Schema (Model View) tab -> select columns -> enter display folder name -> hit enter
+
+Formatting and Conditional Formatting
+Formatting header visuals and applying conditional formatting for values that display increase or decrease that need to be tracked
+
+Formatting main visuals
