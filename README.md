@@ -58,9 +58,9 @@ The dashboard includes a mix of visual types:
 ## 📁 Project Structure
 
 ```
-├── PlantCo_Dashboard.pbix    # Main Power BI report file
+├── Performance Report.pbix    # Main Power BI report file
 ├── Data/
-│   └── PlantCo_Data.xlsx     # Source Excel dataset
+│   └── Plant_DTS.xlsx     # Source Excel dataset
 └── README.md
 ```
 
